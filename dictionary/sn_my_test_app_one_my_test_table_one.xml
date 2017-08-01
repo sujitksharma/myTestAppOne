@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="my test table one" max_length="40" name="sn_my_test_app_one_my_test_table_one" type="collection"/>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on sn_my_test_app_one_my_test_table_one</description>
+        <express_security>false</express_security>
+        <name>sn_my_test_app_one_my_test_table_one</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-01 10:39:44</sys_created_on>
+        <sys_id>7960627587d003007feaf3beb2e3ecdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_my_test_app_one_my_test_table_one</sys_name>
+        <sys_package display_value="my test app one" source="sn_my_test_app_one">06402e3587d003007feaf3beb2e3ec2f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my test app one">06402e3587d003007feaf3beb2e3ec2f</sys_scope>
+        <sys_update_name>sys_security_acl_7960627587d003007feaf3beb2e3ecdf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-01 10:39:44</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
