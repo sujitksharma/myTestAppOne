@@ -7,7 +7,7 @@
         <device_type>browser</device_type>
         <hint/>
         <name>my test table one</name>
-        <order>100</order>
+        <order>110</order>
         <roles>sn_my_test_app_one.my_test_table_one_user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
