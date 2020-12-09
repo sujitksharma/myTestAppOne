@@ -27,7 +27,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-08-01 10:39:12</sys_updated_on>
         <template/>
-        <trackable>false</trackable>
+        <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
